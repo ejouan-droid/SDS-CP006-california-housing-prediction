@@ -1,2 +1,3 @@
-# GITHUB DEMO REPO
+# GIT DEMO REPO
 some description
+new line 3
